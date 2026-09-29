@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d5a1837f-e492-45c7-93e4-000216df615f
+  title: ゼロから始めるプログラミング
+  authors:
+    - name: Hiroaki Aizawa
+    - name: Akira Furui
+  copyright: 2026 (CC BY 4.0)
+  github: python-hu/python-class-2026
+  toc:
+    - file: intro.md
+    - title: 講義の教材
+      children:
+        - file: docs/01/introduction_and_setup.ipynb
+    - title: 補足情報
+      children:
+        - file: docs/exam.md
+        - file: docs/submission/submission.md
+        - file: docs/generative_ai.md
+        - file: docs/advanced_materials.md
+        - file: docs/references.md
+site:
+  template: book-theme
+  options:
+    logo: logo_dalle3.png
+    folders: true
