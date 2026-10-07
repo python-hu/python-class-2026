@@ -13,6 +13,8 @@ project:
     - title: 講義の教材
       children:
         - file: docs/01/introduction_and_setup.ipynb
+        - file: docs/02/variables_and_data_types.ipynb
+        - file: docs/03/exercise_variables_and_data_types.ipynb
     - title: 補足情報
       children:
         - file: docs/exam.md
