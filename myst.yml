@@ -17,6 +17,8 @@ project:
         - file: docs/03/exercise_variables_and_data_types.ipynb
         - file: docs/04/conditional_branch.ipynb
         - file: docs/05/exercise_conditional_branch.ipynb
+        - file: docs/06/loops.ipynb
+        - file: docs/07/exercise_loops.ipynb
     - title: 補足情報
       children:
         - file: docs/exam.md

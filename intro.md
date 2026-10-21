@@ -38,8 +38,8 @@
 | [第3回：変数（演習）](docs/03/exercise_variables_and_data_types.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/03/exercise_variables_and_data_types.ipynb) | - | 10/16 | [Open](docs/03_ans/answer_variables_and_data_types.ipynb) |
 | [第4回：条件分岐（講義）](docs/04/conditional_branch.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/04/conditional_branch.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQBTzw2N4kWcQq96r09s9aInAe31Ag1jj46j94LoxWBiQDM) | - | - |
 | [第5回：条件分岐（演習）](docs/05/exercise_conditional_branch.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/05/exercise_conditional_branch.ipynb) | - | 10/23 | 準備中 |
-| 第6回：繰り返し処理（講義） | - | 準備中 | - | - |
-| 第7回：繰り返し処理（演習） | - | - | 10/30 | 準備中 |
+| [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/06/loops.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQDKYLhOFw7lTb8wQ-Hk3rE0Ab5MhLBOudUjpf0MWMBPgPM) | - | - |
+| [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/07/exercise_loops.ipynb) | - | 10/30 | 準備中 |
 | 第8回：関数（講義） | - | 準備中 | - | - |
 | 第9回：関数（演習） | - | - | 11/6 | 準備中 |
 | 第10回：クラス（講義） | - | 準備中 | - | - |
