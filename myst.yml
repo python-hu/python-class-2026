@@ -19,6 +19,8 @@ project:
         - file: docs/05/exercise_conditional_branch.ipynb
         - file: docs/06/loops.ipynb
         - file: docs/07/exercise_loops.ipynb
+        - file: docs/08/functions_and_scope.ipynb
+        - file: docs/09/exercise_functions_and_scope.ipynb
     - title: 補足情報
       children:
         - file: docs/exam.md
