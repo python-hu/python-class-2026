@@ -40,7 +40,7 @@
 | [第5回：条件分岐（演習）](docs/05/exercise_conditional_branch.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/05/exercise_conditional_branch.ipynb) | - | 10/23 | [Open](docs/05_ans/answer_conditional_branch.ipynb) |
 | [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/06/loops.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQDKYLhOFw7lTb8wQ-Hk3rE0Ab5MhLBOudUjpf0MWMBPgPM) | - | - |
 | [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/07/exercise_loops.ipynb) | - | 10/30 | 準備中 |
-| [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/08/functions_and_scope.ipynb) | 準備中 | - | - |
+| [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/08/functions_and_scope.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQA8Tew7IR-FR5RZxI6zGPFGATbPayuvUS3f5tzUYAcHlmE) | - | - |
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/09/exercise_functions_and_scope.ipynb) | - | 11/6 | 準備中 |
 | 第10回：クラス（講義） | - | 準備中 | - | - |
 | 第11回：クラス（演習） | - | - | 11/13 | 準備中 |
