@@ -33,6 +33,8 @@ project:
       hidden: true
     - file: docs/05_ans/answer_conditional_branch.ipynb
       hidden: true
+    - file: docs/07_ans/answer_loops.ipynb
+      hidden: true
 site:
   template: book-theme
   options:
