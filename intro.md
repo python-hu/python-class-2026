@@ -42,8 +42,8 @@
 | [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/07/exercise_loops.ipynb) | - | 10/30 | [Open](docs/07_ans/answer_loops.ipynb) |
 | [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/08/functions_and_scope.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQA8Tew7IR-FR5RZxI6zGPFGATbPayuvUS3f5tzUYAcHlmE) | - | - |
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/09/exercise_functions_and_scope.ipynb) | - | 11/6 | 準備中 |
-| 第10回：クラス（講義） | - | 準備中 | - | - |
-| 第11回：クラス（演習） | - | - | 11/13 | 準備中 |
+| [第10回：クラス（講義）](docs/10/class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/10/class.ipynb) | 準備中 | - | - |
+| [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/11/exercise_class.ipynb) | - | 11/13 | 準備中 |
 | 第12回：データ分析入門（講義） | - | 準備中 | - | - |
 | 第13回：データ分析入門（演習） | - | - | 11/20 | 準備中 |
 | 第14回：機械学習入門（講義） | - | 準備中 | - | - |
