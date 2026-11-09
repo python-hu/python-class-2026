@@ -37,6 +37,8 @@ project:
       hidden: true
     - file: docs/07_ans/answer_loops.ipynb
       hidden: true
+    - file: docs/09_ans/answer_functions_and_scope.ipynb
+      hidden: true
 site:
   template: book-theme
   options:
