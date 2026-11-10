@@ -45,7 +45,7 @@
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/09/exercise_functions_and_scope.ipynb) | - | 11/6 | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
 | [第10回：クラス（講義）](docs/10/class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/10/class.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQAEVyKx7qpWSqAjN1jPqTROAd8plUdMNGk0fUcCwpUjckk) | - | - |
 | [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/11/exercise_class.ipynb) | - | 11/13 | 準備中 |
-| [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/12/introduction_to_data_analysis.ipynb) | 準備中 | - | - |
+| [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/12/introduction_to_data_analysis.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQBDT81N7b8FTI9HwpQ3F7JJAbgyvVrM6tZyDFtsI00wkGU) | - | - |
 | [第13回：データ分析入門（演習）](docs/13/exercise_introduction_to_data_analysis.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/13/exercise_introduction_to_data_analysis.ipynb) | - | 12/1 | 準備中 |
 | 第14回：機械学習入門（講義） | - | 準備中 | - | - |
 | 第15回：機械学習入門（演習） | - | - | 12/1 | 準備中 |
