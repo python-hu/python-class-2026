@@ -5,6 +5,7 @@
 担当教員：相澤宏旭，古居彬
 
 ````{card} お知らせ
+- 期末試験の情報を公開しました（2026/11/11）
 - 本ページを公開しました（2026/10/02）
 ````
 
@@ -44,8 +45,8 @@
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/09/exercise_functions_and_scope.ipynb) | - | 11/6 | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
 | [第10回：クラス（講義）](docs/10/class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/10/class.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQAEVyKx7qpWSqAjN1jPqTROAd8plUdMNGk0fUcCwpUjckk) | - | - |
 | [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/11/exercise_class.ipynb) | - | 11/13 | 準備中 |
-| 第12回：データ分析入門（講義） | - | 準備中 | - | - |
-| 第13回：データ分析入門（演習） | - | - | 11/20 | 準備中 |
+| [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/12/introduction_to_data_analysis.ipynb) | 準備中 | - | - |
+| [第13回：データ分析入門（演習）](docs/13/exercise_introduction_to_data_analysis.ipynb) | [Open](https://colab.research.google.com/github/python-hu/python-class-2026/blob/main/docs/13/exercise_introduction_to_data_analysis.ipynb) | - | 12/1 | 準備中 |
 | 第14回：機械学習入門（講義） | - | 準備中 | - | - |
 | 第15回：機械学習入門（演習） | - | - | 12/1 | 準備中 |
 
@@ -97,7 +98,7 @@
 ## 成績評価
 
 - 毎週の課題提出状況と，期末試験の成績を踏まえて総合的に評価します．
-- 期末試験の詳細は試験日程が近づいたら記載します．
+- 期末試験の詳細は [こちら](docs/exam.md) を確認してください．
 
 
 ## 開講情報
