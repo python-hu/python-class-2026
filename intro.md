@@ -65,7 +65,7 @@
 - 毎週水曜日の8:30（目安）に資料（教材とビデオ）を本サポートページ上に掲載します．
   - 第1回の資料のみ，初回講義日の10/2（金）に掲載します．
 - 演習課題は，**資料公開日の翌週金曜 23時59分00秒まで** に提出してください．
-  - 第15回の課題のみ，期末試験期間の終了日（12/1）が締め切りです．
+  - 第13回・第15回の課題は，期末試験期間の終了日（12/1）が締め切りです．
   - 演習課題の解答例は，その翌日に公開します．
 
 <iframe src="https://calendar.google.com/calendar/embed?src=zeropro.hu%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
