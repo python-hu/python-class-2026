@@ -1,0 +1,6 @@
+/* 課題の解答（docs/NN_ans）は目次に登録してページを生成するが，
+   サイドバーとページ下の「前へ／次へ」には出さない（講義ページの表からのみリンクする） */
+.myst-toc-item[href*="/docs/ans/"],
+.myst-footer-link[href*="/docs/ans/"] {
+  display: none !important;
+}

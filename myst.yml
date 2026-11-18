@@ -34,19 +34,15 @@ project:
         - file: docs/generative_ai.md
         - file: docs/advanced_materials.md
         - file: docs/references.md
-    # 課題の解答（講義ページの表からのみリンクし，サイドバーには表示しない）
+    # 課題の解答（講義ページの表からのみリンクする．サイドバーと前後のページへのリンクは custom.css で隠す）
     - file: docs/03_ans/answer_variables_and_data_types.ipynb
-      hidden: true
     - file: docs/05_ans/answer_conditional_branch.ipynb
-      hidden: true
     - file: docs/07_ans/answer_loops.ipynb
-      hidden: true
     - file: docs/09_ans/answer_functions_and_scope.ipynb
-      hidden: true
     - file: docs/11_ans/answer_class.ipynb
-      hidden: true
 site:
   template: book-theme
   options:
     logo: logo_dalle3.png
     folders: true
+    style: custom.css
